@@ -253,7 +253,7 @@ button.button:disabled {
 /* line 135, ../scss/partials/_buttons.scss */
 .button-border:hover, .button-border:focus {
   background: none;
-  color: gray;
+  color: black;
   border: 2px solid gray;
 }
 /* line 140, ../scss/partials/_buttons.scss */
